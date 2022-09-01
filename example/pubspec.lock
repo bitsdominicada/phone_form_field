@@ -142,6 +142,24 @@ packages:
       relative: true
     source: path
     version: "7.0.1"
+  phone_number_metadata:
+    dependency: transitive
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "08ba5b4de21205218a5df680b6693edf10ba198d"
+      url: "https://github.com/bitsdominicada/dart_phone_metadata.git"
+    source: git
+    version: "5.0.4"
+  phone_numbers_parser:
+    dependency: transitive
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "06cfa4831c7a18920bf2317b7fcb9abb4525995c"
+      url: "https://github.com/bitsdominicada/phone_numbers_parser.git"
+    source: git
+    version: "7.0.0"
   sky_engine:
     dependency: transitive
     description: flutter
